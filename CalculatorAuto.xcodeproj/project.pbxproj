@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F7A3D5F2401A622004323C1 /* CalculatorAuto in Resources */ = {isa = PBXBuildFile; fileRef = 2F7A3D5E2401A622004323C1 /* CalculatorAuto */; };
 		2F9A7A062401486100E907D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9A7A052401486100E907D4 /* AppDelegate.swift */; };
 		2F9A7A082401486100E907D4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9A7A072401486100E907D4 /* SceneDelegate.swift */; };
 		2F9A7A0A2401486100E907D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9A7A092401486100E907D4 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2F7A3D5E2401A622004323C1 /* CalculatorAuto */ = {isa = PBXFileReference; lastKnownFileType = folder; name = CalculatorAuto; sourceTree = "<group>"; };
 		2F9A7A022401486100E907D4 /* CalculatorAuto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorAuto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F9A7A052401486100E907D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F9A7A072401486100E907D4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				2F9A7A042401486100E907D4 /* CalculatorAuto */,
+				2F7A3D5E2401A622004323C1 /* CalculatorAuto */,
 				2F9A7A1B2401486300E907D4 /* CalculatorAutoTests */,
 				2F9A7A262401486300E907D4 /* CalculatorAutoUITests */,
 				2F9A7A032401486100E907D4 /* Products */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F9A7A122401486300E907D4 /* LaunchScreen.storyboard in Resources */,
+				2F7A3D5F2401A622004323C1 /* CalculatorAuto in Resources */,
 				2F9A7A0F2401486300E907D4 /* Assets.xcassets in Resources */,
 				2F9A7A0D2401486100E907D4 /* Main.storyboard in Resources */,
 			);
